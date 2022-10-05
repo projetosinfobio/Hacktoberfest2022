@@ -1,0 +1,3 @@
+how to do a SQL injection:
+User: ' or 1=1 --
+password: *
